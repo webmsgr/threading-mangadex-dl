@@ -1,3 +1,10 @@
+# threading-mangadex-dl
+
+mangadex-dl but with threading support and code hooks! 
+Not complete yet.
+
+Original readme below:
+
 # mangadex-dl
 
 A Python script to download manga from [MangaDex.org](https://mangadex.org).
